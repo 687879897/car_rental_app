@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"car-rentel-app","appId":"1:845673383433:android:315de8fa7bb4909fb91ad8","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"car-rentel-app","configurations":{"android":"1:845673383433:android:315de8fa7bb4909fb91ad8","ios":"1:845673383433:ios:095df1b809e3d620b91ad8"}}}}}}
